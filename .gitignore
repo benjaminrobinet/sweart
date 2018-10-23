@@ -1,0 +1,5 @@
+composer.phar
+/vendor/
+/config/configuration.ini
+/.idea/
+.DS_Store
