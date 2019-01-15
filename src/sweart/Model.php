@@ -8,8 +8,6 @@
 
 namespace Sweart;
 
-use Models\Categorie;
-
 abstract class Model
 {
     protected $model = [];
