@@ -1,6 +1,9 @@
 Base on Eloquent for a school project.
 It is meant to re-implement an Active Record ORM
 
+# Official Git Repository
+[benjaminrobinet/sweart](https://github.com/benjaminrobinet/sweart)
+
 # Install
 ## Initial setup
 Install all the dependencies with composer using:
